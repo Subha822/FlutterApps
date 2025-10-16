@@ -12,4 +12,4 @@ This project is a starting point for a Flutter application.
 
 ## Downlod APK
 
-📦 [Download APK](https://github.com/Subha822/FlutterApps/tree/main/i_am_poor/build/app/outputs/flutter-apk/app-release.apk)
+📦 [Download APK](https://drive.google.com/file/d/1BHC4Pd-v1wOa5Om8RB5L4sr0stBpN0lM/view?usp=sharing)
