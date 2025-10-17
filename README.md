@@ -4,7 +4,7 @@ Project 01: I am Poor  -  Completed
 
 Project 02: Micard - Completed
 
-Project 03: Dicee
+Project 03: Dicee - Completed
 
 Project 04: Magic 8 Ball
 
