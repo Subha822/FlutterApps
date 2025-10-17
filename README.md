@@ -2,7 +2,7 @@
 
 Project 01: I am Poor  -  Completed
 
-Project 02: Micard
+Project 02: Micard - Completed
 
 Project 03: Dicee
 
