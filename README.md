@@ -22,4 +22,4 @@ Project 10: Bitcoin Ticker
 
 Project 11: Flash Chat
 
-Project 12: Todey - Completed
+Project 12: Todoey - Completed
