@@ -10,7 +10,7 @@ Project 04: Magic 8 Ball
 
 Project 05: Xylophone
 
-Project 06: Quizzler
+Project 06: Quizzler - Completed
 
 Project 07: Destini
 
