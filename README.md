@@ -8,7 +8,7 @@ Project 03: Dicee - Completed
 
 Project 04: Magic 8 Ball
 
-Project 05: Xylophone
+Project 05: Xylophone - Completed
 
 Project 06: Quizzler - Completed
 
