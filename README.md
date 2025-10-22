@@ -16,7 +16,7 @@ Project 07: Destini
 
 Project 08: BMI Calculator
 
-Project 09: Clima
+Project 09: Clima - Completed
 
 Project 10: Bitcoin Ticker
 
